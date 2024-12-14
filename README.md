@@ -22,4 +22,4 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/вашеимя/website.git
+   git clone https://github.com/hdhdGBjf/project-site-ready/
